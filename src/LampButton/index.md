@@ -1,9 +1,9 @@
 # LampButton
 
-### demo实例
+### demo 实例
 
 ```jsx
-import { LampButton } from 'lamp-ui';
+import { LampButton } from 'south-lamp-ui';
 
-export default () => <LampButton  />
+export default () => <LampButton />;
 ```

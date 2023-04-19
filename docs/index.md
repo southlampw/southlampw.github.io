@@ -19,4 +19,4 @@ features:
     description: Put ! description here
 ---
 
-lamp-ui
+south-lamp-ui
