@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksouth_lamp_ui=self.webpackChunksouth_lamp_ui||[]).push([[243],{67243:function(m,u,t){t.r(u),t.d(u,{LampButton:function(){return o}});var r=t(67294),n=t(79374),a=t(85893),s=function(){return(0,a.jsx)(n.ZP,{type:"primary",children:"southlamp"})},o=s}}]);

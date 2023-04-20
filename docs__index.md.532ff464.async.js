@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksouth_lamp_ui=self.webpackChunksouth_lamp_ui||[]).push([[935],{2511:function(n,t,_){_.r(t);var m=_(71100),s=_(35532),h=_(19532),d=_(28732),l=_(86306),a=_(67915),o=_(14570),E=_(67294),u=_(85893);function e(){var i=(0,o.eL)(),r=i.texts;return(0,u.jsx)(o.dY,{children:(0,u.jsx)(u.Fragment,{})})}t.default=e}}]);
